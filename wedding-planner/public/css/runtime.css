@@ -1,0 +1,39 @@
+li.parsley-required {
+    color: red;
+}
+ul.parsley-errors-list{list-style: none;color: red;}
+.finalorder label {
+    font-weight: bold;
+}
+.margin10{
+	margin: 10px !important;
+}
+.margintop10{
+	margin-top: 10px !important;
+}
+.marginbottom10{
+	margin-bottom: 10px !important;
+}
+.marginleft10{
+	margin-left: 10px !important;
+}
+.marginright10{
+	margin-right: 10px !important;
+}
+.img {
+    width: 300px !important;
+    height: 300px !important;
+}
+.price {
+    font-size: 25px;
+    color: red;
+}
+a.call-us {
+    background: #78c025;
+    padding: 10px;
+    color: #fff;
+    border-radius: 18px;
+}
+.noheight{
+	height: 10px !important;
+}
